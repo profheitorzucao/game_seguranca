@@ -1,36 +1,36 @@
 visible = true
 
 text_balao =["Olá sou o Carlos!",
-             "Sou Técnico em segurança do Trabalho.",
-			 "Vou te conduzir pelo percurso.",
-			 "Para iniciarmos, uma pergunta.",
-			 "O uso de uniforme é obrigatório?"];
+             "Sou Tecnico em segurança \ndo Trabalho.",
+			 "Vou te conduzir pelo \npercurso.",
+			 "Para iniciarmos, \numa pergunta.",
+			 "O uso de uniforme\n e obrigatório?"];
 			 
 			 
-text_balao2 =["Você está entrando em um ambiente de elétrica e percebe que a área está um pouco desorganizada.",
-              "A primeira coisa a fazer é garantir que todos os equipamentos de proteção individual (EPIs) estejam disponíveis e sendo utilizados corretamente.",
-			  "Verifique se os fios e cabos estão bem isolados e se não há risco de curto-circuito.",
-			  "Antes de começar a trabalhar, sempre se certifique de que o painel de energia está desligado.",
-			  "Você deve sempre verificar os EPIs antes de começar o trabalho?"]
+text_balao2 =["Você está entrando \nem um ambiente de eletrica\n e percebe que a área \nestá um pouco desorganizada.",
+              "A primeira coisa a fazer\n e garantir que todos os \nequipamentos de protecao \nindividual (EPIs) estejam \ndisponiveis e sendo utilizados \ncorretamente.",
+			  "Verifique se os fios e cabos \nestão bem isolados e se \nnão há risco de curto-circuito.",
+			  "Antes de começar a trabalhar, \nsempre se certifique de que \no painel de energia está desligado.",
+			  "Você deve sempre verificar os EPIs \nantes de começar o trabalho?"]
 
 
-text_balao3=["Você está prestes a iniciar uma soldagem e percebe que a área está cheia de materiais inflamáveis.",
-             "Antes de começar, é essencial remover qualquer material que possa pegar fogo facilmente.",
-			 "Verifique se o sistema de ventilação está funcionando corretamente para evitar a inalação de fumos tóxicos.",
-			 "Utilize sua máscara de solda corretamente e assegure-se de que ela oferece proteção suficiente para seus olhos e rosto.",
-			 "Por que é importante remover materiais inflamáveis antes de soldar?"]
+text_balao3=["Você está prestes a iniciar uma \nsoldagem e percebe que a área \nestá cheia de materiais inflamáveis.",
+             "Antes de começar, é essencial \nremover qualquer material que \npossa pegar fogo facilmente.",
+			 "Verifique se o sistema de ventilação \nestá funcionando corretamente \npara evitar a inalação de fumos \ntóxicos.",
+			 "Utilize sua máscara de solda \ncorretamente e assegure-se de que ela \noferece proteção suficiente para \nseus olhos e rosto.",
+			 "Por que é importante remover \nmateriais inflamáveis antes de \nsoldar?"]
 
-text_balao4=["Você está prestes a operar uma serra elétrica e percebe que a lâmina está enferrujada.",
-             "Antes de começar, é importante verificar se a lâmina está afiada e sem sinais de desgaste.",
-			 "Sempre use óculos de segurança e protetor auricular para proteger seus olhos e ouvidos dos detritos e do ruído intenso.",
-			 "Certifique-se de que a área de trabalho está bem iluminada e livre de obstruções.",
-			 "Por que é importante verificar a lâmina da serra antes de usá-la?"]
+text_balao4=["Você está prestes a operar uma \nserra elétrica e percebe que \na lâmina está enferrujada.",
+             "Antes de começar, é importante \nverificar se a lâmina está \nafiada e sem sinais de desgaste.",
+			 "Sempre use óculos de segurança \ne protetor auricular para proteger \nseus olhos e ouvidos dos detritos e \ndo ruído intenso.",
+			 "Certifique-se de que a área de \ntrabalho está bem iluminada e livre \nde obstruções.",
+			 "Por que é importante verificar a \nlâmina da serra antes de usá-la?"]
 
-text_balao5=["Você está prestes a operar uma máquina de corte a laser e percebe que a área ao redor está desorganizada.",
-			 "Antes de iniciar, é essencial limpar a área de trabalho e remover qualquer material inflamável.",
-			 "Certifique-se de que você está usando os Equipamentos de Proteção Individual (EPIs) adequados, como óculos de segurança e luvas.",
-			 "Ao iniciar a operação, mantenha uma distância segura da máquina e sempre observe a área de corte.",
-			 "Por que é importante limpar a área antes de usar a máquina de corte a laser?"]
+text_balao5=["Você está prestes a operar uma \nmáquina de corte a laser e percebe \nque a área ao redor está \ndesorganizada.",
+			 "Antes de iniciar, é essencial \nlimpar a área de trabalho e remover \nqualquer material inflamável.",
+			 "Certifique-se de que você está \nusando os Equipamentos de \nProteção Individual (EPIs) \nadequados, como óculos de segurança e \nluvas.",
+			 "Ao iniciar a operação, mantenha uma \ndistância segura da máquina e \nsempre observe a área de corte.",
+			 "Por que é importante limpar a área \nantes de usar a máquina de \ncorte a laser?"]
 
 texto = text_balao
 

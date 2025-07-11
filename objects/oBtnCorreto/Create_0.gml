@@ -8,13 +8,13 @@ switch(global.faze){
 	     texto = "Sim"
 		 break;
 	   case 3:
-	     texto = "Para evitar incêndios"
+	     texto = "Para evitar \nincêndios"
 		 break;
 	   case 4:
-	     texto = "Para garantir um corte eficiente e seguro"
+	     texto = "Para garantir um corte \neficiente e seguro"
 		 break;
 	   case 5:
-	     texto = "Para evitar incêndios e acidentes"
+	     texto = "Para evitar incêndios \ne acidentes"
 		 break;
 	   default:
 	     break;

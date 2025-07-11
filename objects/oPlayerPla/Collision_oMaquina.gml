@@ -17,6 +17,9 @@ instance_destroy(other)
 
 global.faseConcluida += 1
 
+audio_stop_all()
+audio_play_sound(sndMusicaFundo2, 1, true);
+
 room_goto(Inicial)
 
 show_debug_message("numero de vidas:" + string(global.numVida))

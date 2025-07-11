@@ -1,6 +1,17 @@
 // MOVIMENTO LATERAL
 hsp = (keyboard_check(vk_right) - keyboard_check(vk_left)) * vel;
 
+if keyboard_check(vk_left)
+{
+	image_xscale =-1
+}
+else
+{
+	image_xscale =1
+}
+
+
+
 // APLICA GRAVIDADE
 vsp += gravidade;
 if (vsp > vsp_max) vsp = vsp_max;

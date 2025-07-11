@@ -6,5 +6,5 @@ if(visible)
 	draw_set_color(c_black)
 
 	
-	draw_text(oBalao.x, oBalao.y, texto[current_text_idx])
+	draw_text(oBalao.x+10, oBalao.y+10, texto[current_text_idx])
 }

@@ -8,13 +8,13 @@ switch(global.faze){
 	     texto = "Nao"
 		 break;
 	   case 3:
-	     texto = "Para melhorar a visibilidade"
+	     texto = "Para melhorar \na visibilidade"
 		 break;
 	   case 4:
-	     texto = "Para melhorar a aparencia do corte"
+	     texto = "Para melhorar \na aparencia do corte"
 		 break;
 	   case 5:
-	     texto = "Para melhorar a eficiencia do corte"
+	     texto = "Para melhorar \na eficiencia do corte"
 		 break;
 	   default:
 	     break;

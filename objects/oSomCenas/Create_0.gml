@@ -1,6 +1,9 @@
 audio_stop_all()
 
 switch(room){
+	case Inicial:
+	   audio_play_sound(sndMusicaFundo2, 1, true)
+	   break 
 	case Fase1:
 	   audio_play_sound(sndMusicaFundo, 1, true)
 	   break
